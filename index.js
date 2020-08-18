@@ -66,13 +66,13 @@ function init() {
 ${data.description}
         
 ## Table of Contents
-    * Description
-    * Installation
-    * Usage
-    * License
-    * Contributing
-    * Tests
-    * Questions
+* Description
+* Installation
+* Usage
+* License
+* Contributing
+* Tests
+* Questions
 
 ## Installation
 ${data.installation}
