@@ -5,13 +5,13 @@
 greatest app in the world.
         
 ## Table of Contents
-* Description
-* Installation
-* Usage
-* License
-* Contributing
-* Tests
-* Questions
+* [Description](## Description)
+* [Installation](## Installation)
+* [Usage](## Usage)
+* [License](## License)
+* [Contributing](## Contributing)
+* [Tests](## Tests)
+* [Questions](## Questions)
 
 ## Installation
 npm install
